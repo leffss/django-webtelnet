@@ -13,7 +13,7 @@
 4. django 将 telnetlib 返回的结果通过 websocket 返回给用户
 5. xterm.js 接收 django 返回的数据并将其写入前端页面
 
-###目前存在的问题
+### 目前存在的问题
 由于 telnetlib 库的原因，终端无法显示颜色已经动态改变大小
 
 ## 启动
